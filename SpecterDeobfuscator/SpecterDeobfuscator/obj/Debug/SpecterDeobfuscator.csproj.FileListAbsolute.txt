@@ -1,0 +1,8 @@
+C:\Users\xenocode\source\repos\SpecterObfuscator-Deobfuscator\SpecterDeobfuscator\SpecterDeobfuscator\bin\Debug\SpecterDeobfuscator.exe
+C:\Users\xenocode\source\repos\SpecterObfuscator-Deobfuscator\SpecterDeobfuscator\SpecterDeobfuscator\bin\Debug\SpecterDeobfuscator.pdb
+C:\Users\xenocode\source\repos\SpecterObfuscator-Deobfuscator\SpecterDeobfuscator\SpecterDeobfuscator\bin\Debug\dnlib.dll
+C:\Users\xenocode\source\repos\SpecterObfuscator-Deobfuscator\SpecterDeobfuscator\SpecterDeobfuscator\obj\Debug\SpecterDeobfuscator.csprojAssemblyReference.cache
+C:\Users\xenocode\source\repos\SpecterObfuscator-Deobfuscator\SpecterDeobfuscator\SpecterDeobfuscator\obj\Debug\SpecterDeobfuscator.csproj.CoreCompileInputs.cache
+C:\Users\xenocode\source\repos\SpecterObfuscator-Deobfuscator\SpecterDeobfuscator\SpecterDeobfuscator\obj\Debug\SpecterDeobfuscator.csproj.CopyComplete
+C:\Users\xenocode\source\repos\SpecterObfuscator-Deobfuscator\SpecterDeobfuscator\SpecterDeobfuscator\obj\Debug\SpecterDeobfuscator.exe
+C:\Users\xenocode\source\repos\SpecterObfuscator-Deobfuscator\SpecterDeobfuscator\SpecterDeobfuscator\obj\Debug\SpecterDeobfuscator.pdb
